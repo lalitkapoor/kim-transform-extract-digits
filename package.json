@@ -1,5 +1,5 @@
 {
-  "name": "kim-extract-positive-integer",
+  "name": "kim-transform-extract-numeric",
   "version": "0.0.0",
   "description": "extract numerics from a string of text",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lalitkapoor/kim-extract-positive-integer.git"
+    "url": "git://github.com/lalitkapoor/kim-transform-extract-numeric.git"
   },
   "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lalitkapoor/kim-extract-positive-integer/issues"
+    "url": "https://github.com/lalitkapoor/kim-transform-extract-numeric/issues"
   },
-  "homepage": "https://github.com/lalitkapoor/kim-extract-positive-integer"
+  "homepage": "https://github.com/lalitkapoor/kim-transform-extract-numeric"
 }
