@@ -1,2 +1,2 @@
-kim-extract-integer
-===================
+kim-extract-positive-integer
+============================
