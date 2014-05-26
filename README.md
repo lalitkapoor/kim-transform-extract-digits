@@ -1,2 +1,2 @@
-kim-transform-extract-numeric
-=============================
+kim-transform-extract-digits
+============================

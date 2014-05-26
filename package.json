@@ -1,19 +1,19 @@
 {
-  "name": "kim-transform-extract-numeric",
+  "name": "kim-transform-extract-digits",
   "version": "0.0.0",
-  "description": "extract numerics from a string of text",
+  "description": "extract digits from a string of text",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lalitkapoor/kim-transform-extract-numeric.git"
+    "url": "git://github.com/lalitkapoor/kim-transform-extract-digits.git"
   },
   "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lalitkapoor/kim-transform-extract-numeric/issues"
+    "url": "https://github.com/lalitkapoor/kim-transform-extract-digits/issues"
   },
-  "homepage": "https://github.com/lalitkapoor/kim-transform-extract-numeric"
+  "homepage": "https://github.com/lalitkapoor/kim-transform-extract-digits"
 }
