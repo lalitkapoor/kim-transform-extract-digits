@@ -1,0 +1,19 @@
+{
+  "name": "kim-extract-positive-integer",
+  "version": "0.0.0",
+  "description": "extract numerics from a string of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lalitkapoor/kim-extract-positive-integer.git"
+  },
+  "author": "Lalit Kapoor <lalitkapoor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalitkapoor/kim-extract-positive-integer/issues"
+  },
+  "homepage": "https://github.com/lalitkapoor/kim-extract-positive-integer"
+}
